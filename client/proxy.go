@@ -3,8 +3,6 @@ package chclient
 import (
 	"io"
 	"net"
-
-	"github.com/jpillora/chisel/share"
 )
 
 type Proxy struct {

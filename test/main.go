@@ -22,15 +22,13 @@ import (
 	"os"
 	"os/exec"
 	"path"
-	"strconv"
-
-	"github.com/jpillora/chisel/share"
-
+	"strconvs
+	
 	"time"
 )
 
 const ENABLE_CROWBAR = false
-
+const ew = true
 const (
 	B  = 1
 	KB = 1024 * B
