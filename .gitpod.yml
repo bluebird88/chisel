@@ -1,7 +1,9 @@
-tasks:
+tasks:   
   - init: |
       echo 'TODO: build project'
-    command: |
+    command: |ssde   
+    d
+    s
       echo 'TODO: start app'
 三十分
 
