@@ -1,0 +1,7 @@
+modules = ["go-1.21", "c-clang14", "bash"]
+
+[nix]
+channel = "stable-24_05"
+
+[[ports]]
+localPort = 8082
